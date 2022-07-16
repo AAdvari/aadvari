@@ -13,10 +13,9 @@
 ```                                                                          
                                                                           
 
-### 📊 Profile stats
+### 📊 Profile
 <a href="https://github.com/AAdvari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AAdvari&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAdvari&theme=buefy&layout=compact" />
 </a>
 
 
